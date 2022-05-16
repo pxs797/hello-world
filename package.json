@@ -1,0 +1,15 @@
+{
+  "name": "mark",
+  "version": "0.0.0",
+  "description": "Hi, I am Mark Peng",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pxs797/mark"
+  },
+  "author": "mark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pxs797/mark"
+  }
+}
