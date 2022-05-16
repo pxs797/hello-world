@@ -11,5 +11,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/pxs797/mark"
+  },
+  "dependencies": {
+    "open": "^8.4.0"
   }
 }
