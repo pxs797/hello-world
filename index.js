@@ -1,1 +1,1 @@
-require('open')('https://pxs797.github.io/mark/')
+require('open')('https://pxs797.github.io/pxs797/')
